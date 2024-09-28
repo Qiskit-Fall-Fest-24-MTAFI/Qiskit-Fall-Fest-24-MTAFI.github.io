@@ -137,7 +137,7 @@ input, select, textarea {
 		color: #ffffff;
 		font-weight: 300;
 		line-height: 1em;
-		margin: 0 0 0.3em 0;
+		margin: 0 0 0.4em 0;
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -266,10 +266,10 @@ input, select, textarea {
 .profile > h2, h4, p {
 	margin: 0 0 0.3em 0;
 }
-.profile > section {
-	margin: 0 0 0.3em 0;
-}
 
+.profile > section {
+	margin: 0 0 0.2em 0;
+}
 /* Sponsors and partners */
 
 .partners {
@@ -3728,6 +3728,12 @@ input, select, textarea {
 
 			#footer {
 				padding: 1.5em 0;
+			}
+
+		/* Table */
+			
+			table td {
+				font-size: 9pt;
 			}
 
 	}
