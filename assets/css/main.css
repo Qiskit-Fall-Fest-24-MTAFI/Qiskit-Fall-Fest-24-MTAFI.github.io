@@ -152,7 +152,7 @@ input, select, textarea {
 	}
 
 	h4 {
-		font-size: 1em;
+		font-size: 1.1em;
 		line-height: 1.3em;
 	}
 
@@ -259,7 +259,7 @@ input, select, textarea {
 }
 
 .profile > h2, h4, p {
-	margin: 0 0 0.1em 0;
+	margin: 0 0 0.3em 0;
 }
 
 .profile > section {
