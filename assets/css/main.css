@@ -2824,6 +2824,23 @@ input, select, textarea {
 
 		}
 
+/* Scrollbar */
+
+::-webkit-scrollbar {
+	width: 0.3em;
+	}
+
+
+::-webkit-scrollbar-thumb {
+	background: #1852c562;
+	}
+
+
+::-webkit-scrollbar-thumb:hover {
+	background: #1851c5;
+	}
+
+
 /* Table */
 
 	.table-wrapper {
